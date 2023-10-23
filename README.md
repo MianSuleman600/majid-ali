@@ -1,1 +1,2 @@
-# majid-ali
+#include<iostream>
+using namespace std;
